@@ -1,4 +1,4 @@
-class HelperFunctions
+class HelperFunctionss
 {
     public static function truncateFloat( number : Float, precision : Int): Float {
 		var num = number;
