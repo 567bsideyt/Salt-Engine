@@ -240,7 +240,7 @@ class AlphaCharacter extends FlxSprite
 
 	public static var symbols:String = "|~#$%()*+-:;<=>@[]^_.,'!?";
 
-	public var row:Int = 0;
+	public var row:Int = 1;
 
 	public function new(x:Float, y:Float)
 	{
