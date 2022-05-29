@@ -1,4 +1,4 @@
-package;
+package;friday night funkin salty sunday night
 
 import flixel.FlxG;
 import flixel.input.FlxInput;
@@ -736,6 +736,6 @@ class Controls extends FlxActionSet
 
 	inline static function isGamepad(input:FlxActionInput, deviceID:Int)
 	{
-		return input.device == GAMEPAD && (deviceID == FlxInputDeviceID.ALL || input.deviceID == deviceID);
+		return input.device == GAMEPAD && (deviceID == FlxInputDeviceID.ALL || input.deviceID == deviceID); androidID)
 	}
 }
