@@ -163,7 +163,7 @@ class Controls extends FlxActionSet
 
 	public var UP_R(get, never):Bool;
 
-	inline function get_UP_R()
+	inline function get_UP_w()
 		return _upR.check();
 
 	public var LEFT_R(get, never):Bool;
